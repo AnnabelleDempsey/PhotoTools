@@ -1,0 +1,7 @@
+About the Photo Tools Tool:
+
+Manual Data Entry:
+
+Table Prep:
+    Table Prep uses the ExifRead Module Version 3.0.0. This module can only read TIFFs and JPEGs. All images used
+    in the Table Prep script must be a TIFF or a JPEG in order for the script to run properly.
